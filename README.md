@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Welcome to the Movie Database Web App! This web application allows users to store information about movies, including the title, director, and description. It provides a user-friendly interface to manage your movie collection with features such as adding new movies, editing existing entries, deleting entries, and viewing all movies in the database.
+Welcome to the Movie Database Management Web App! This web application allows users to store information about movies, including the title, director, and description. It provides a user-friendly interface to manage your movie collection with features such as adding new movies, editing existing entries, deleting entries, and viewing all movies in the database.
 
 ![Movie Database Management](https://github.com/nhathapham22/MVDM/blob/main/img/web%20app%20screenshot.png)
 
